@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7189
     wikipedia: http://de.wikipedia.org/wiki/Ricarda_Huch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31150#Gottfried-Keller
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-02-01'
 gutenberg_type: Text
